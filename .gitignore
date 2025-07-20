@@ -1,0 +1,18 @@
+# node modules
+node_modules/
+
+# build output
+dist/
+build/
+
+# system files
+.DS_Store
+.env
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# bun.lockb (if using Bun)
+bun.lockb
