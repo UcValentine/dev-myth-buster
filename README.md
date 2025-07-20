@@ -39,7 +39,7 @@ To run the project locally:
 
 ```sh
 # 1️⃣ Clone the repo
-git clone <YOUR_GIT_URL>
+git clone <GIT_URL>
 
 # 2️⃣ Navigate to the project folder
 cd dev-mythbusters
